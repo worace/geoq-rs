@@ -23,6 +23,8 @@ percent-encoding = "1.0.1"
 os_info = "2.0.6"
 num_cpus = "1.0"
 reqwest = "0.9.19"
+flatgeobuf = "0.3"
+flatbuffers = "0.6.1"
 
 [dev-dependencies]
 assert_cli = "0.6.2"
